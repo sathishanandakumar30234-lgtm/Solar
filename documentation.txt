@@ -1,0 +1,133 @@
+SolarTec – Renewable Energy & Power HTML Template
+Documentation
+
+Table of Contents
+Introduction
+
+Folder Structure
+
+Installation
+
+HTML Structure
+
+Customizing the Template
+
+Changing Images & Content
+
+Styling & Colors
+
+Contact Form Setup
+
+Credits
+
+Support
+
+1. Introduction <a name="introduction"></a>
+SolarTec is a modern, fully responsive HTML and CSS template designed for renewable energy, solar power, and clean tech businesses. Built with semantic HTML5 and well-structured CSS3, SolarTec helps you build a professional online presence quickly and easily.
+
+2. Folder Structure <a name="folder-structure"></a>
+
+SolarTec/
+│
+├── css/
+│   ├── style.css
+│   └── (optional: scss, images, etc.)
+│
+├── js/
+│   └── main.js
+│
+├── lib/
+│   ├── animate/
+│   ├── counterup/
+│   ├── easing/
+│   ├── isotope/
+│   ├── lightbox/
+│   ├── owlcarousel/
+│   ├── waypoints/
+│   └── wow/
+│
+├── scss/
+│
+├── 404.html
+├── about.html
+├── contact.html
+├── feature.html
+├── index.html
+├── project.html
+├── quote.html
+├── service.html
+├── team.html
+│
+└── (Add images in images folder andcgive names inside the project were carousel and other area to to display it)
+3. Installation <a name="installation"></a>
+Download & Unzip
+Download the ZIP file from ThemeForest and extract it to your web server or local machine.
+
+File Structure
+All HTML files are in the root directory. All stylesheets, images, and fonts are inside the assets/ folder.
+
+Open in Browser
+Simply open index.html in your browser to view the homepage.
+
+4. HTML Structure <a name="html-structure"></a>
+Each HTML file is divided into logical sections:
+
+Header & Navigation
+
+Hero/Banner Section
+
+About / Services / Projects
+
+Testimonials / Features
+
+Contact/Quote Form
+
+Footer
+
+All sections are commented for easy navigation and editing.
+
+5. Customizing the Template <a name="customizing-the-template"></a>
+Logo:
+Replace the logo image in assets/images/ and update the <img> tag in the header section.
+
+Navigation:
+Update navigation links in the <nav> element across all HTML files for consistency.
+
+Sections:
+Modify text, images, and links directly in the HTML files as needed.
+
+6. Changing Images & Content <a name="changing-images--content"></a>
+Images:
+Replace image files in the assets/images/ folder and update image paths in the HTML files.
+
+Text:
+Edit any section's headings, paragraphs, and button text directly in the relevant HTML file.
+
+Icons:
+You can update icons by replacing the files in the assets/images/icons/ directory.
+
+7. Styling & Colors <a name="styling--colors"></a>
+All CSS styles are contained in assets/css/style.css.
+
+To change colors, fonts, or layout styles, edit the appropriate CSS classes or variables in this file.
+
+For quick branding, search for color codes (e.g., #005BAC) and replace with your preferred brand color.
+
+8. Contact Form Setup <a name="contact-form-setup"></a>
+The contact form is static HTML by default.
+
+To enable form submissions, you must connect it to a backend (e.g., PHP, Formspree, or another service).
+
+Update the <form action="..."> attribute in contact.html with your form handling script or endpoint.
+
+9. Credits <a name="credits"></a>
+Fonts: Google Fonts
+
+Icons: Flaticon or Font Awesome (as per included files)
+
+Images: Demo images are used for preview purposes only. Please replace with your own licensed images for production.
+
+10. Support <a name="support"></a>
+For any questions, customization help, or technical support, please contact us via your ThemeForest profile page or the support email provided in your purchase.
+
+Thank you for choosing SolarTec!
